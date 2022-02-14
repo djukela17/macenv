@@ -23,20 +23,20 @@ desktops and then assign the shortcuts.
 
 ![Keyboard Shortcuts](assets/MacOS_Keybinds_Workspaces.png)
 
-| Action          | Keybind |
-| -------------------- | -- |
-| Switch to Desktop 1  | ⌥1 |
-| Switch to Desktop 2  | ⌥2 |
-| Switch to Desktop 3  | ⌥3 |
-| Switch to Desktop 4  | ⌥4 |
-| Switch to Desktop 5  | ⌥5 |
-| Switch to Desktop 6  | ⌥6 |
-| Switch to Desktop 7  | ⌥7 |
-| Switch to Desktop 8  | ⌥8 |
-| Switch to Desktop 9  | ⌥9 |
-| Switch to Desktop 10 | ⌥0 |
-| Switch to Desktop 11 | ⌥- |
-| Switch to Desktop 12 | ⌥= |
+| Action           | Keybind |
+| -------------------- | --- |
+| Switch to Desktop 1  | ⌥ 1 |
+| Switch to Desktop 2  | ⌥ 2 |
+| Switch to Desktop 3  | ⌥ 3 |
+| Switch to Desktop 4  | ⌥ 4 |
+| Switch to Desktop 5  | ⌥ 5 |
+| Switch to Desktop 6  | ⌥ 6 |
+| Switch to Desktop 7  | ⌥ 7 |
+| Switch to Desktop 8  | ⌥ 8 |
+| Switch to Desktop 9  | ⌥ 9 |
+| Switch to Desktop 10 | ⌥ 0 |
+| Switch to Desktop 11 | ⌥ - |
+| Switch to Desktop 12 | ⌥ = |
 
 
 ## Plugins
